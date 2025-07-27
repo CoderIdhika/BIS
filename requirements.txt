@@ -1,4 +1,4 @@
 Flask==2.3.3
-pandas==2.0.3
+pandas==1.5.3
 # Add other libraries here as you implement the scraping and report generation
 # e.g., requests, beautifulsoup4, selenium, python-docx (for Word generation, likely needs a different approach)
